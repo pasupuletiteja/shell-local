@@ -1,1 +1,2 @@
-echo " this is second test"
+#!/bin/bash
+ echo " this is test 2"
